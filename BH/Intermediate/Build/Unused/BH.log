@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature).
+  Parsing headers for BHEditor
+    Running UnrealHeaderTool "C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature\BH\BH.uproject" "C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature\BH\Intermediate\Build\Win64\BHEditor\Development\BHEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Patricia\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for BHEditor in 12.6153786 seconds
+  Building BHEditor...
+  Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 4 processes...
+    [1/6] BH.init.gen.cpp
+    [2/6] BlackHole.cpp
+    [3/6] BlackHole.gen.cpp
+    [4/6] UE4Editor-BH-0004.lib
+       Creating library C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature\BH\Intermediate\Build\Win64\UE4Editor\Development\BH\UE4Editor-BH-0004.lib and object C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature\BH\Intermediate\Build\Win64\UE4Editor\Development\BH\UE4Editor-BH-0004.exp
+    [5/6] UE4Editor-BH-0004.dll
+       Creating library C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature\BH\Intermediate\Build\Win64\UE4Editor\Development\BH\UE4Editor-BH-0004.suppressed.lib and object C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature\BH\Intermediate\Build\Win64\UE4Editor\Development\BH\UE4Editor-BH-0004.suppressed.exp
+    [6/6] BHEditor.target
+  Total time in Parallel executor: 13.88 seconds
+  Total execution time: 28.61 seconds

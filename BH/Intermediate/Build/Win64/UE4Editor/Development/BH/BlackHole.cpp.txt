@@ -1,0 +1,7 @@
+C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature\BH\Intermediate\Build\Win64\UE4Editor\Development\BH\Definitions.BH.h
+C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature\BH\Source\BH\BlackHole.h
+C:\Users\Patricia\Downloads\BlackHoleFeature\BlackHoleFeature\BH\Intermediate\Build\Win64\UE4Editor\Inc\BH\BlackHole.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

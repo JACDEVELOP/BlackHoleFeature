@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BH.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C13E02B3-3B8D-4796-B195-B464BAF7004E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BH.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BHEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{EC5F75D6-F048-4614-A0E0-7D460E4DFCF2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BH">
+      <UniqueIdentifier>{5BF18C29-7482-4374-94F1-FE62F84326DB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BH\BH.Build.cs">
+      <Filter>Source\BH</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BH\BH.cpp">
+      <Filter>Source\BH</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BH\BH.h">
+      <Filter>Source\BH</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BH\BHCharacter.cpp">
+      <Filter>Source\BH</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BH\BHCharacter.h">
+      <Filter>Source\BH</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BH\BHGameMode.cpp">
+      <Filter>Source\BH</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BH\BHGameMode.h">
+      <Filter>Source\BH</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BH\BHHUD.cpp">
+      <Filter>Source\BH</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BH\BHHUD.h">
+      <Filter>Source\BH</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BH\BHProjectile.cpp">
+      <Filter>Source\BH</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BH\BHProjectile.h">
+      <Filter>Source\BH</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BH\BlackHole.cpp">
+      <Filter>Source\BH</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BH\BlackHole.h">
+      <Filter>Source\BH</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

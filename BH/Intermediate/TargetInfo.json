@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BH",
+			"Path": "C:\\Users\\Patricia\\Downloads\\BlackHoleFeature\\BlackHoleFeature\\BH\\Source\\BH.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BHEditor",
+			"Path": "C:\\Users\\Patricia\\Downloads\\BlackHoleFeature\\BlackHoleFeature\\BH\\Source\\BHEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
